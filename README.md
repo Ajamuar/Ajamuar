@@ -13,7 +13,7 @@ Besides these, I have some hands-on on devOps with DigitalOcean, AWS, Docker, et
 ## How can you reach me?
 - You can drop a mail anytime at adityasharanjamuar@gmail.com
 - I am fairly active on [Twitter](https://twitter.com/GeekJamuar)
-- I am active on [LinkedIn](https://www.linkedin.com/in/asjamuar/) too
+- I am active on [LinkedIn](https://www.linkedin.com/in/asjamuar/) as well.
 <!--
 **Ajamuar/Ajamuar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
