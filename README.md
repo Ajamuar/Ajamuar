@@ -1,6 +1,6 @@
 # Aditya Jamuar
 ## Who am I?
-I am a 2019 CS graduate working on making it easier and faster for developers to build softwares. I have worked on special projects like BuilderX, apibeats and NativeBase, along with some great OSS like React-pluggable and Formst. I am currently working as a software engineer in GeekyAnts.
+I am a 2019 CS graduate working on making it easier and faster for developers to build softwares. I have worked on special projects like BuilderX, apibeats and NativeBase, along with some great OSS like React-pluggable and Formst. I am currently working as a Senior Software Developer in GeekyAnts.
 ## What are the technologies I have worked on?
 I am a full-stack developer who has worked on following technologies:
 - JS libraries like React and Angular
