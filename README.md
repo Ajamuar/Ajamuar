@@ -14,17 +14,14 @@ Besides these, I have some hands-on on devOps with DigitalOcean, AWS, Docker, et
 - You can drop a mail anytime at adityasharanjamuar@gmail.com
 - I am fairly active on [Twitter](https://twitter.com/GeekJamuar)
 - I am active on [LinkedIn](https://www.linkedin.com/in/asjamuar/) as well.
-<!--
-**Ajamuar/Ajamuar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Stats
+### Overall
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ajamuar&show_icons=true&locale=en" alt="ajamuar stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Language Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajamuar&show_icons=true&locale=en&layout=compact" alt="ajamuar language stats" />
+</p>
