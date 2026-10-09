@@ -40,9 +40,10 @@ Joined as an intern and left as a senior engineer.
 
 - Drove BuilderX end to end: Next.js, Laravel and FeathersJS, and Dockerized deploys. Led the backend move from FeathersJS to Laravel. [Talk](https://www.youtube.com/watch?v=_uhnrHRTYnE).
 - Co-created [NativeBase v3](https://github.com/GeekyAnts/NativeBase), an early cross-platform React Native design system. 20k+ GitHub stars, and weekly downloads that passed 70k.
-- Built and led an R&D team shipping developer tools. [Talk: building a form library for React](https://www.youtube.com/watch?v=9-_waee8VSs).
+- Built [Formst](https://github.com/formstjs/formst), a model-driven form library for React, and led [react-pluggable](https://github.com/GeekyAnts/react-pluggable), a plugin system for React apps. [Talk: building a form library for React](https://www.youtube.com/watch?v=9-_waee8VSs).
+- Built and led an R&D team shipping developer tools.
 
-## Before the jobs
+## Education
 
 B.Tech in Computer Science, DIT University, 2015–2019. Founded the hackathon club and placed top 3 in multiple coding competitions.
 
