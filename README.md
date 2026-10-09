@@ -1,27 +1,58 @@
 # Aditya Jamuar
-## Who am I?
-I am a 2019 CS graduate working on making it easier and faster for developers to build softwares. I have worked on special projects like BuilderX, apibeats and NativeBase, along with some great OSS like React-pluggable and Formst. I am currently working as a Product Engineer at epilot GMBH.
-## What are the technologies I have worked on?
-I am a full-stack developer who has worked on following technologies:
-- JS libraries like React and Angular
-- Serverside rendering libraries like NextJS
-- React Native for mobile development (and web too, lately. Checkout NativeBase v3)
-- Node, Express and Feathers for JS backend library/framework
-- Laravel as non-JS backend framework
 
-Besides these, I have some hands-on on devOps with DigitalOcean, AWS, Docker, etc.
-## How can you reach me?
-- You can drop a mail anytime at adityasharanjamuar@gmail.com
-- I am fairly active on [Twitter](https://twitter.com/GeekJamuar)
-- I am active on [LinkedIn](https://www.linkedin.com/in/asjamuar/) as well.
+I build products end to end, from the database to the pixel.
 
-## Stats
-### Overall
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ajamuar&show_icons=true&locale=en" alt="ajamuar stats" />
-</p>
+I'm a software engineer at epilot, based in Bengaluru. I work on the customer portals that energy companies across Germany offer their customers, and on the APIs, cloud tooling and release pipelines behind them. Before this: Jira Issue View at Atlassian, video meetings at Intuit, and BuilderX and NativeBase at GeekyAnts.
 
-### Language Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajamuar&show_icons=true&locale=en&layout=compact" alt="ajamuar language stats" />
-</p>
+[adityajamuar.com](https://adityajamuar.com) · [LinkedIn](https://www.linkedin.com/in/asjamuar) · [hi@adityajamuar.com](mailto:hi@adityajamuar.com) · [X](https://x.com/GeekJamuar)
+
+## epilot
+
+**Software engineer** · May 2026 — present
+
+- Led portal versioning from proposal to production. Staging a change used to mean cloning an entire portal. It is now a real version: history, diff, review, rollback, and a preview of any version on demand.
+- Built a self-healing Playwright pipeline on GitHub Actions and Claude Code. A broken test opens a fix pull request. A person reviews it and merges it.
+
+Day to day, that work covers the portal frontend, its API, and the pipelines that ship both.
+
+## Atlassian
+
+**Software engineer** · January 2024 — March 2026 · Jira Issue View
+
+- Moved ownership of Jira Issue View from the Australia team to India.
+- Led the Relay migration and Issue Layout modernization, and set cross-team standards for that migration and for component platformisation.
+- Cut incident detection from 45 minutes to 15 by driving monitoring and response practices across the org.
+- Ran experiments that lifted engagement by 31%.
+
+## Intuit
+
+**Software engineer** · January 2022 — January 2024
+
+- Delivered a video meeting platform across the Intuit ecosystem, with NPS above 90.
+- Designed a resilient, highly available architecture and built the foundation for multi-participant meetings.
+- Mentored new hires and defined the team's coding standards. CX3 Technical Excellence Award, FY22 Q3.
+
+## GeekyAnts
+
+**Senior software engineer** · February 2019 — December 2021
+
+Joined as an intern and left as a senior engineer.
+
+- Drove BuilderX end to end: Next.js, Laravel and FeathersJS, and Dockerized deploys. Led the backend move from FeathersJS to Laravel. [Talk](https://www.youtube.com/watch?v=_uhnrHRTYnE).
+- Co-created [NativeBase v3](https://github.com/GeekyAnts/NativeBase), an early cross-platform React Native design system. 20k+ GitHub stars, and weekly downloads that passed 70k.
+- Built and led an R&D team shipping developer tools. [Talk: building a form library for React](https://www.youtube.com/watch?v=9-_waee8VSs).
+
+## Before the jobs
+
+B.Tech in Computer Science, DIT University, 2015–2019. Founded the hackathon club and placed top 3 in multiple coding competitions.
+
+## How I build
+
+TypeScript, Node.js, React, Next.js, React Native and Relay on the interface. PHP, Laravel, FeathersJS, GraphQL, MySQL, AWS and Docker behind it. GitHub Actions, GitLab CI, Jenkins, Playwright and Jest for delivery.
+
+Recent work leans on coding agents. A strong model plans, faster agents implement, and a separate reviewer reads the diff with fresh context. The same context files work in Claude Code and Cursor. Dry runs come before anything destructive, and agents never hold production credentials.
+
+## In public
+
+- [timezone-peek](https://github.com/Ajamuar/timezone-peek) — a Chrome extension that finds times on a page and shows them in your timezone, with a few comparisons on hover.
+- [adityajamuar.com](https://github.com/Ajamuar/adityajamuar.com) — personal site, Astro on Cloudflare.
